@@ -38,12 +38,20 @@ h2 {
   letter-spacing: -0.45px;
 }
 
-p, i, a, ul, ol {
+p, i, a, ul, ol, label, input {
   margin-top: 21px;
   font-family: "Lora";
   font-size: 21px;
   letter-spacing: -0.03px;
   line-height: 1.58;
+}
+
+.input-group li {
+    margin-top:0;
+    margin-bottom:0;
+    padding-top:0;
+    padding-bottom:0;
+    line-height:1em;
 }
 
 li {

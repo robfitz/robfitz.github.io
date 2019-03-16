@@ -1,5 +1,8 @@
 <div class="nav-header">
   {% if {{page.url}} != '/'%}<a class="nav" href="/">&#x2190; Back to read more </a> {% endif %}
+  
+  {% if {{page.url}} != '/subscribe/' %}
 <a class="nav right" href="/subscribe">&#9993; Subscribe monthly or quarterly 	
 &#8594;</a>
+{% endif %}
 </div>

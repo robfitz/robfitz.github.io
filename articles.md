@@ -1,10 +1,6 @@
 ---
 
 layout: home
-redirect_from:
-  - /articles
-  - /articles/
-  
 ---
 
 # Tools for entrepreneurial thinking and living

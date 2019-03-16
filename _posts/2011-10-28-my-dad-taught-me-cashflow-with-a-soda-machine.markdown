@@ -1,24 +1,24 @@
 ---
 layout: post
 title:  "My dad taught me cashflow with a soda machine"
-date:   2011-10-28 14:13:29 +0100
-categories: jekyll update
+canonical: http://thestartuptoolkit.com/blog/2011/10/my-dad-taught-me-cashflow-with-a-soda-machine/
+categories: articles
 ---
 
-After a brief, failed experiment paying me to do chores, my dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferrable lessons for parents who want to lay an entrepreneurial foundation.
+After a brief, failed experiment paying me to do chores, my dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferable lessons for parents who want to lay an entrepreneurial foundation.
 
-He gave me a vending machine.
+He got me a vending machine.
 
 He rented the machine, found a location in a local workshop, and installed it. And then he told me two things.
 
 1. That this would be the last time I was given allowance.
-2. And that if I wanted to have any pocketmoney next week, I’d better spend this week’s on some inventory.
+2. And that if I wanted to have any pocket money next week, I’d better spend some of this week’s on inventory.
 
 I ran the machine for about 4 years from the time I was 7 or 8. At first, my only agency was inventory management. We drove to Costco in his big van and I decided what to buy. Stocking an empty soda machine is easy: you buy four cases of each soda you want to carry.
 
 But then the Coca-Cola runs out first and the Sunkist is half empty and nobody has bought even a single Grape Soda and should I cut my margins paying more per-unit for individual cans or do I buy full cases and find somewhere to store the extras and *why am I doing algebra on the weekend!?*
 
-Looking back on it, I’m certain this whole endeavour operated at a loss. Dad subsidised it like crazy so I would have a safe–but real–environment to learn in.
+Looking back on it, I’m certain this whole endeavor operated at a loss. Dad subsidized it like crazy so I would have a safe–but real–environment to learn in.
 
 At first, it was pure profit: he covered the expenses and I pocketed the take. As long as I did the work each week to buy inventory, count the revenue, and refill the change drawer, I was set.
 
@@ -48,6 +48,6 @@ The vending machine didn’t magically make me want to be an entrepreneur. I wan
 
 I get the impression kids are a bit slippery in that regard.
 
-But when I stumbled into the startup world two decades later, the dots began to connect. Cashflow wasn’t a new concept. Inventory tradeoffs made a bit of sense.
+But when I stumbled into the startup world two decades later, the dots began to connect. Cashflow wasn’t a new concept. Inventory trade-offs made a bit of sense.
 
 This thing with the internet is like that thing with the sodas.

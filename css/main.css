@@ -69,18 +69,82 @@ a.nav {
 a.nav, a.article{  
   text-decoration:none;
 }
+.small {
+    font-size:0.8em;
+}
+
 a.nav:hover, a.article:hover {
     text-decoration:underline;
 }
 
+.left {
+    float:left;
+}
 
 .right, a.nav.right {
     float:right;
 }
 
+.one-third {
+    width:30%;
+    float:left;
+}
+.two-thirds {
+    width:60%;
+    float:left;
+}
+
+.row {
+    width:100%;
+    float:left;
+}
+
+#mc_embed_signup {
+    background:#fff; clear:left;
+}
 
 
 
+/* ----------------------
+form signup silliness 
+------------------------*/
+label {
+    font-weight:bold;
+}
+
+.toggle input {
+    width: 0;
+    height: 0;
+    position: absolute;
+    left: -9999px;
+}
+
+.toggle input:checked + label {
+    background-color: #4b9dea;
+    color: #fff;
+    border-color: #4b9dea;
+    z-index: 1;
+}
+
+.toggle input + label {
+    margin:16px 0 0 0;
+    font-weight:normal !important;
+    padding: 0.4rem 1rem;
+    box-sizing: border-box;
+    position: relative;
+    display: inline-block;
+    border: solid 1px #ddd;
+    background-color: #fff;
+    font-size: 1rem;
+    line-height: 140%;
+    font-weight: 600;
+    text-align: center;
+    cursor:pointer;
+}
+
+.button {
+    cursor:pointer;
+}
 
 
  /* ==========================================================================
