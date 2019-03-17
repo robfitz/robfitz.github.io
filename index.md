@@ -10,9 +10,21 @@ redirect_from:
 
 # For entrepreneurial thinking and living
 
+{% if site.categories['learn'] %}
+## Deep knowledge
+
+{% for post in site.categories['learn'] limit:10 %}
+
+  <p class="col{{ colvar | modulo: 5 }}">
+  <a href='{{ post.url }}' class='article'>{{ post.title }}</a>
+  </p>
+  {% capture _ %}{% increment colvar %}{% endcapture %}
+{% endfor %}
+{% endif %}
+
 ## Articles
 
-{% for post in site.posts limit:10 %}
+{% for post in site.categories['articles'] limit:10 %}
 
   <p class="col{{ colvar | modulo: 5 }}">
   <a href='{{ post.url }}' class='article'>{{ post.title }}</a>
@@ -21,8 +33,6 @@ redirect_from:
   {% capture _ %}{% increment colvar %}{% endcapture %}
 
 {% endfor %}
-
-<hr/>
 
 ## My books
 

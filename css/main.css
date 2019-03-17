@@ -49,10 +49,31 @@ textarea {
    ========================================================================== */
    
 .content {
-  max-width: 590px;
+  max-width: 890px;
   margin: auto;
   padding:0 5px 0 5px;
 }
+
+.article-content {
+    position:relative;
+}
+
+@media all and (min-width: 920px) {
+    .article-content {
+      max-width: 690px;
+    }
+}
+
+/** the goal of this is, when screens are wide enough,
+  * to pull the whole content panel to the left so there's
+  * more room for a 200px footnote/addendum sidebar on the right */
+/*@media all and (min-width: 920px) {
+    .content {
+        position:relative;
+        left:-100px;
+    }
+}*/
+
 
 hr {
     margin: 3em 0;
@@ -65,10 +86,10 @@ h1 {
 div.nav-header, div.nav-footer {
     width:100%;
     float:left;
-    margin-bottom:50px;
+    margin:1em 0 2em 0;
 }
 div.nav-footer {
-    margin-top:100px;
+    margin-top:5em;
 }
 a.nav {
     float:left;
@@ -83,9 +104,6 @@ a:hover {
 
 .small {
     font-size:0.85em;
-}
-
-@media all and (max-width: 610px) {
 }
 
 
@@ -170,7 +188,55 @@ a:hover {
      color:white;
      text-decoration:none;
  }
-
+ 
+ .has-fn {
+     border-bottom: 1px dotted;
+ }
+ 
+ a.has-fn {
+     text-decoration:none;
+     border:1px dotted white;
+     border-bottom: 1px dotted;
+ }
+ 
+ /** footnote wide screen solution with them in sidebar */
+ .has-fn span {
+     position:absolute;
+     right:-200px;
+     width:170px;
+     border-left:1px dotted;
+     padding-left:9px;
+     font-size:80%;
+     line-height:1.3em;
+ }
+ /** end footnote wide screen */
+ 
+ /** footnote small screen solution with footnotes as a popup on hover/press */
+@media all and (max-width: 920px) {
+ 
+  .has-fn span { 
+      display:none;
+  }
+  .has-fn {
+     cursor:pointer;
+  }
+ .has-fn:active, .has-fn:hover {
+     background-color:#eeeeff;
+     border:1px dotted;
+ }
+ .has-fn:active span, .has-fn:hover span {
+     display:inline;
+     position:absolute;
+     right:20px;
+     width:200px;
+     background-color:#eeeeff;
+     border: 1px dotted;
+     padding:6px 9px;
+     font-size:80%;
+ }
+}
+ /** end footnote small screen */
+ 
 /* ----------------------
 form signup silliness 
 ------------------------*/

@@ -38,7 +38,7 @@ h2 {
   letter-spacing: -0.45px;
 }
 
-p, i, a, ul, ol, label, input {
+p, ul, ol, label, input {
   margin-top: 21px;
   font-family: "Lora";
   font-size: 21px;
