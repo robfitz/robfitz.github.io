@@ -1,5 +1,5 @@
 # robfitz.github.io
-Personal site and blog
+Personal site and blog with a focus on newsletter signups and deep content
 
 ## Tech
 * jekyll with overwritten theme/styles
@@ -10,8 +10,9 @@ Personal site and blog
 ## Running locally
 
 ```
-in windows powershell (or ideally non-windows anything):
 bundle exec jekyll serve
+
+http://localhost:4000
 ```
 
 ## Deploy
