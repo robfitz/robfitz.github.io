@@ -124,6 +124,52 @@ a:hover {
 }
 
 
+ .col0, .col1, .col2, .col3, .col4, .col5 {
+     border-left:5px solid #5A7A8D;
+     margin-left:0px;
+     padding-left:10px; 
+     }
+ .col0 {
+     border-color: #112F41;
+ }
+ .col1 {
+     border-color: #0894A1;
+ }
+ .col2 {
+     border-color: #47AB6C;
+ }
+ .col3 {
+     border-color: #B58427;
+ }
+ .col4 {
+     border-color: #ED553B;
+ }
+ 
+ .col0:hover a, .col0:hover {
+     background-color: #112F41;
+     color:white;
+     text-decoration:none;
+ } 
+ .col1:hover a, .col1:hover {
+     background-color: #0894A1;
+     color:white;
+     text-decoration:none;
+ }
+ .col2:hover a, .col2:hover {
+     background-color: #47AB6C;
+     color:white;
+     text-decoration:none;
+ }
+ .col3:hover a, .col3:hover {
+     background-color: #B58427;
+     color:white;
+     text-decoration:none;
+ }
+ .col4:hover a, .col4:hover {
+     background-color: #ED553B;
+     color:white;
+     text-decoration:none;
+ }
 
 /* ----------------------
 form signup silliness 
