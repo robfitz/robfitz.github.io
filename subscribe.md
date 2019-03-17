@@ -21,7 +21,6 @@ In general, I'm focusing on deep dives into poorly understood tools and areas. I
         <div class="toggle" style="text-align:middle">
             <label class="one-third" for="group[75833]">Frequency:</label>
             
-            
             <div style="float:left;">
                 <input type="radio" value="4" name="group[75833]" id="mce-group[75833]-75833-2"><label for="mce-group[75833]-75833-2">Weekly</label><input type="radio" checked value="2" name="group[75833]" id="mce-group[75833]-75833-1"><label for="mce-group[75833]-75833-1">Monthly</label><input type="radio" value="1" name="group[75833]" id="mce-group[75833]-75833-0"><label for="mce-group[75833]-75833-0">Quarterly</label>
             </div>
@@ -40,8 +39,10 @@ In general, I'm focusing on deep dives into poorly understood tools and areas. I
 </form>
 </div>
 
-<p style="margin-top:100px;" class="small">(The frequencies are an upper limit. So while I'll never contact you <em>more</em> than you've selected, I may sometimes contact you less.)</p>
+<p style="margin-top:100px;" class="small">(The frequencies are an upper limit. So while I'll never contact you <em>more</em> than you've selected, I may sometimes contact you less. <br/>If you prefer to control things on your end, there's also an <a href="/feed.xml">rss feed</a>.)</p>
 
-<p>P.S. Since I've asked you to trust me with <em>your</em> email, it only seems fair to offer mine in return. I'm <a href="mailto:rob@robfitz.com">rob@robfitz.com</a>.</p>
+
+
+P.S. Since I've asked you to trust me with <em>your</em> email, it only seems fair to offer mine in return. I'm <a href="mailto:rob@robfitz.com">rob@robfitz.com</a>.
 
 <!--End mc_embed_signup-->
