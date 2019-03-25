@@ -8,10 +8,11 @@ redirect_from:
 
 ---
 
-# For entrepreneurial thinking and living
+# Toward entrepre&shy;neurial thinking and living
+by <a href="/about/">Rob Fitzpatrick</a>
 
 {% if site.categories['learn'] %}
-## Deep knowledge
+## Knowledge
 
 {% for post in site.categories['learn'] limit:10 %}
 
@@ -22,7 +23,7 @@ redirect_from:
 {% endfor %}
 {% endif %}
 
-## Articles
+## Perspective
 
 {% for post in site.categories['articles'] limit:10 %}
 
