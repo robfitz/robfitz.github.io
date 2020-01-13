@@ -5,7 +5,7 @@ canonical: http://thestartuptoolkit.com/blog/2011/10/my-dad-taught-me-cashflow-w
 categories: articles
 ---
 
-After a brief experiment in paying me to do chores, my dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferable lessons for parents who'd like to lay an entrepreneurial foundation.
+After a brief experiment in paying me to do chores, dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferable lessons for parents who'd like to lay an entrepreneurial foundation.
 
 He got me a vending machine.
 
