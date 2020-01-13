@@ -4,15 +4,21 @@ title:  "Cofounders aren't mail order brides - you cant just \"find one\" once y
 categories: articles
 ---
 
-People always want to know "how to find a cofounder." This is a bad question based on faulty beliefs about what cofounders are and how one finds them.
+People always want to know "how to find a cofounder." This is a bad question which will deliver bad results. Part of the problem is in the phrasing. It's phrased like:
 
-Part of the problem is in the phrasing of the question. It's phrased like, "How do I find a nice hardwood table for my kitchen?" "Oh, just go to this town on Sunday, they've got a great furniture market." The big failure is in treating "cofounder shopping" as a transactional experience, like picking a mail order bride. People want to know "where to find them" as if they can just browse through a listing and take one home.
+> "How do I find a nice hardwood table for my kitchen?" 
+>
+> "Oh, just go to this town on Sunday, they've got a great furniture market." 
 
-Marriage is the right metaphor, partly due to the sharing of assets (your cofounder gets half-ish of your total earnings for the next 5-10 years, and there's a high financial penalty if you choose to break up) and partly due to the closeness of living and hours spent together.
+The big failure is in the mindset behind the question, which treats "cofounder shopping" as a transactional experience, as if a cofounder was a mail order bride. 
 
-You (probably) wouldn't choose to marry someone until you had spent some time dating them. People are different over time than they are in a one-off meeting. And the stuff that stands out at first glance (height, income, attractiveness, etc.) isn't what matters most in a life partner and parent-of-our-children (attitude toward adversity, the day-to-day experience of mundane life, kindness, etc.). And you would (probably) date several people before popping the question to one of them. We're well aware that we need to fumble through it a bit--with different types of people--before being able to recognize exactly who we're seeking.
+Marriage is the right metaphor, partly due to the sharing of assets (your cofounder gets half-ish of your total earnings for the next 5-10 years, with high financial penalties if you break up) and partly due to the closeness of living and quantity of time spent together.
 
-Most of us will date lots of people in our lives and only end up marrying a couple of them (badum tish). And we'll probably talk to several orders of magnitude more potential mates who we'll filter out before even deciding to go on a date with them. This "search for a spouse" isn't a discrete event that you add as a todo item once you decide you'd like to get married. You'd sound like a lunatic if you started telling your friends:
+You (probably) wouldn't choose to marry someone until you had spent some time dating them. The qualities which stand out at first glance (height, income, attractiveness, how fun they are to drink with, etc.) aren't the same things we prioritize in a life partner (attitude toward adversity, the day-to-day experience of mundane life, kindness, empathy, etc.). Similarly, first impressions (whether from a cofounder dating event, job board, or wherever else) aren't sufficient (or even relevant) for choosing a cofounder. 
+
+You would (probably) date several people before popping the question to one of them. We're well aware that we need to fumble through it a bit--with different types of people--before being able to recognize exactly who we're seeking.
+
+Most of us will date lots of people in our lives and only end up marrying two or three of them. And we'll probably talk to several orders of magnitude more potential mates who we'll filter out before even deciding to go on a date with them. This "search for a spouse" isn't a discrete event that you add as a todo item once you decide you'd like to get married. You'd sound like a lunatic if you started telling your friends:
 
 > "Hey, I've got a great idea for a house and a life and a family, and now all I need now is a wife. Do you know where I can find one?"
 
