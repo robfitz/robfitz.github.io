@@ -5,7 +5,7 @@ canonical: http://thestartuptoolkit.com/blog/2011/10/my-dad-taught-me-cashflow-w
 categories: articles
 ---
 
-After a brief experiment in paying me to do chores, dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferable lessons for parents who'd like to lay an entrepreneurial foundation.
+After briefly experimenting with paying me to do chores, dad tried something really neat. It clearly took a bit of legwork, but maybe there are some transferable lessons for parents who'd like to lay an entrepreneurial foundation.
 
 He got me a vending machine.
 
@@ -16,9 +16,9 @@ He rented the machine, found a location in a local workshop, and installed it. A
 
 I ran the machine for about four years, from the time I was seven or eight. At first, my only responsibility was inventory management. We would drive to Costco in his big van, where I would decide what to buy. Stocking an empty soda machine is easy: you buy four cases of everything you want to carry.
 
-But then the Coca-Cola runs out first and the Sunkist is half empty and nobody has bought even a single Grape Soda and should I cut my margins or keep buying full slabs? And now my bedroom floor full of soda cases instead of toys and *why am I doing algebra on the weekend!?*
+But then the Coca-Cola runs out first and the Sunkist is half empty and nobody has bought even a single Grape Soda and should I cut my margins or keep buying full slabs? And now my bedroom is floor full of soda cases instead of toys and *why am I doing algebra on the weekend!?*
 
-Looking back on it, I’m certain this whole endeavor operated at a loss. Dad subsidized it like crazy so I would have a safe–but-real environment to learn in. At first, it was pure profit: he covered the expenses and I pocketed the take. As long as I did the work each week to buy inventory, count the revenue, and refill the machine's change drawer, I was set.
+Looking back, I’m certain this whole endeavor operated at a loss. Dad subsidized it like crazy so I would have a safe–but-real environment in which to learn. At first, it was pure profit: he covered expenses and I pocketed profits. As long as I did the work each week to buy inventory, count the coins, and refill everything, I was set.
 
 That didn’t last.
 
@@ -30,13 +30,13 @@ He let slip that, you know, maybe I could make more money if I raised the prices
 
 I freaked out.
 
-I tried to figure out whether I was earning more now or previously. Why hadn’t I been writing all this down? And even if I was making more, how safe was I? Would competition move in and undercut me by that crucial nickel? Would my customers walk across the street to make their soda purchase? Was I being greedy?
+I tried to figure out whether I was earning more now or previously. Why hadn’t I been writing all this down? And even if I was making more, how safe was I? What if a competitor started to undercut me by that crucial nickel? Would my customers walk across the street to make their soda purchase? Was I being greedy?
 
 When I began to get bored of the basics, he added fresh complexities to keep it interesting and educational. First, he began charging me for the gas we used to drive to Costco. Suddenly I couldn’t afford to make re-stocking trips every week, which meant that a single column of popular sodas (like Coke) would sell out before I could restock them. I made the hard call to cut the niche sodas (so long, Grape) and create more room in the machine for the popular ones. I lost some niche customers, but I never ran out of my top sellers. I started buying increasing amounts of inventory to reduce gas and travel costs. I negotiated with my parents to expand my "warehouse" from my bedroom to our garage.
 
 He wondered aloud if it might be worth buying one of those automated coin-counting machines to speed up my weekly bank trip. I saved up and invested.
 
-He would bring me to the warehouse and have me do "market research" where I would sit across the building, keeping track of how often people walked past and bought something. It was great fun and made me feel that my pocket money was really mine. 
+He would bring me to the warehouse and have me do "market research" where I would sit across the building, keeping track of how often people walked past and bought something. It was great fun and made me feel that my I was earning my pocket money from a real venture. 
 
 And it gave me a little taste of the joys and vanities of ownership. I remember, on one of the research trips, watching someone drop a couple coins into my machine. As they were walking away I strutted over to it, inserted the stumpy circular key, unscrewed the tedious lock, and opened the front: “Yeah, that's right, I’ll be getting my soda for free -- I own this joint.”
 
