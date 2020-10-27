@@ -4,7 +4,7 @@ title: Subscribe to my occasional newsletter
 permalink: /subscribe/
 ---
 
-Topics are mostly about entrepreneurial skills, and I'll sometimes point that same lens toward other areas of life such as careers, finances, relationships, and learning. 
+Topics are mostly about entrepreneurial skills, plus a bit of my other two passions: writing useful books and designing effective education. 
 
 In general, I'm focusing on deep dives into poorly understood tools and areas. I'll also occasionally include announcements about my projects and fascinations.
 
