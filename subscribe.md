@@ -8,6 +8,8 @@ Topics are mostly about entrepreneurial skills, plus a bit of my other two passi
 
 In general, I'm focusing on deep dives into poorly understood tools and areas. I'll also occasionally include announcements about my projects and fascinations.
 
+If you'd like to hear from me more often, you should also follow [my youtube channel](https://youtube.com/c/robfitzpatrick/).
+
 <div id="mc_embed_signup">
 <form action="https://heylookabook.us7.list-manage.com/subscribe/post?u=5e924bfb8193898e2ec846e39&amp;id=4d35164915" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
