@@ -11,7 +11,7 @@ redirect_from:
 <h1>Understand your customers.<br/>Build desirable products.<br/>Write useful books.</h1>
 by <a href="/about/">Rob Fitzpatrick</a>
 
-## Heya
+<p>&nbsp;</p>
 
 <img class='banner-img' src='img\rob-fitzpatrick-write-useful-books.jpg' />
 
