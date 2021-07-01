@@ -17,7 +17,7 @@ by <a href="/about/">Rob Fitzpatrick</a>
 
 Heya. I've been running little businesses for the past fourteen years and have written three books about what I've learned.
 
-If you'd like to stay in the loop about my projects and thinking, the best place is [my youtube channel](https://www.youtube.com/c/robfitzpatrick). You can also [receive occasional emails](/subscribe) when I've got something worth sharing.
+If you'd like to stay in the loop about my projects and thinking, the best place is [my youtube channel](https://www.youtube.com/c/robfitzpatrick). Alternatively, you can also [receive an occasional email](/subscribe) when I've got something worth sharing.
 
 My next decade is devoted to serving indie nonfiction authors via a [handbook](https://geni.us/useful), better [tools for beta reading](https://helpthisbook.com), a [nonfiction authors' community](https://writeusefulbooks.com/community/), and more. If you've ever wanted to write nonfiction that works for your readers and succeeds for you, then [join us](https://writeusefulbooks.com/community/).
 
