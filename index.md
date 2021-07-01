@@ -15,13 +15,13 @@ by <a href="/about/">Rob Fitzpatrick</a>
 
 <img class='banner-img' src='img\rob-fitzpatrick-write-useful-books.jpg' />
 
-I've been running little businesses for fourteen years and have written three books about my learnings along the way.
+Heya. I've been running little businesses for the past fourteen years and have written three books about what I've learned.
 
 If you'd like to stay in the loop about my projects and thinking, the best place is [my youtube channel](https://www.youtube.com/c/robfitzpatrick). You can also [receive occasional emails](/subscribe) when I've got something worth sharing.
 
-My next decade is devoted to serving indie nonfiction authors via a [handbook on the process & product of nonfiction](https://geni.us/useful), better [tools for beta reading](https://helpthisbook.com), and ongoing education and support through our [nonfiction authors' community](https://writeusefulbooks.com/community/).
+My next decade is devoted to serving indie nonfiction authors via a [handbook](https://geni.us/useful), better [tools for beta reading](https://helpthisbook.com), a [nonfiction authors' community](https://writeusefulbooks.com/community/), and more. If you've ever wanted to write nonfiction that works for your readers and succeeds for you, then [join us](https://writeusefulbooks.com/community/).
 
-If you've ever wanted to write nonfiction that works and succeeds, then perhaps [you should join us](https://writeusefulbooks.com/community/).
+I live in a teensy tiny mountain village in upper Catalonia [📷](https://www.instagram.com/robfitzpatrick/)
 
 ## My books
 
