@@ -16,7 +16,7 @@ permalink: /momtestbonuses/
             var adobeDCView = new AdobeDC.View({clientId: "<d67484b3562e4a168827642d632796c7>", divId: "adobe-dc-view"});
             adobeDCView.previewFile(
             {
-                content:   {location: {url: "https://robfitz.com/files/The-Mom-Test-SAMPLE-Chapters-1-2-3.pdf"}},
+                content:   {location: {url: "https://robfitz.com/files/The-Mom-Test-SAMPLE-Chapters-1-2-3-robfitz.pdf"}},
                 metaData: {fileName: "The-Mom-Test-SAMPLE-Chapters-1-2-3-robfitz.pdf"}
             });
         });
