@@ -13,7 +13,7 @@ permalink: /momtestbonuses/
         <script type="text/javascript">
         document.addEventListener("adobe_dc_view_sdk.ready", function()
         {
-            var adobeDCView = new AdobeDC.View({clientId: "<d67484b3562e4a168827642d632796c7>", divId: "adobe-dc-view"});
+            var adobeDCView = new AdobeDC.View({clientId: "d67484b3562e4a168827642d632796c7", divId: "adobe-dc-view"});
             adobeDCView.previewFile(
             {
                 content:   {location: {url: "https://robfitz.com/files/The-Mom-Test-SAMPLE-Chapters-1-2-3-robfitz.pdf"}},
