@@ -4,13 +4,13 @@ title: The Mom Test Bonus Content📚🎁
 permalink: /momtestbonuses/
 ---
 
-🙋‍♂️You're probably here because you watched the VideoAsk interactive course about The Mom Test book. 
+🙋‍♂️You're probably here because you watched the [*Mom Test* interactive course](https://www.videoask.com/fwjhdibt5) by [videoask](https://videoask.com).
 
-🎁As promised, here are your bonuses.
+🎁As promised, your bonuses are below. 👇
 
 🏃‍♀️If you'd like to take the goodies and run, I get that. 
 
-🥂But if you'd enjoy hearing from me every so often, [you may do so](/subscribe/).
+🥂But if you'd enjoy hearing from me every so often, [you may also choose to do so](/subscribe/).
 
 
 <div class="row">
@@ -25,14 +25,16 @@ permalink: /momtestbonuses/
     <a class='cover3d col{{ colvar | modulo: 5 }}' href='/files/The-Mom-Test-SAMPLE-Chapters-1-2-3-robfitz.pdf' style="background-image:url('/img/the-mom-test-sample.png')">
     </a>
     </div>
-    </div>
-    <div class='one-third'>
+    <p>🥰Loved it? Buy the <a href='https://geni.us/momtestv'>full paperback/kindle/audiobook</a>.</p>
+    <p>🏫(Bulk sales and teacher resources <a href='http://momtestbook.com/teacher-resources.html'>also</a> available.)</p> 
+</div>
+<div class='one-third'>
     <h2>Also</h2>
     <p>
     I've also written two other books. Maybe you'd like them too? 
     </p>
-    <p>👩‍🏫<a href='https://geni.us/workshopsurvival'>Workshop Survival Guide</a></p>
-    <p>✍<a href='https://writeusefulbooks.com'>Write Useful Books</a></p>
+    <p>👩‍🏫<a href='https://geni.us/workshopsurvivalvm'>Workshop Survival Guide</a></p>
+    <p>✍<a href='https://geni.us/usefulbooksvm'>Write Useful Books</a></p>
     <p>If you have any questions, I'm <a href='mailto:rob@robfitz.com'>rob@robfitz.com</a>.</p>
 
 </div>
