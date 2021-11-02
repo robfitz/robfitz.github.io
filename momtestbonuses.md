@@ -16,13 +16,16 @@ permalink: /momtestbonuses/
 <div class="row">
 
 <div class="two-thirds">
-    <h2>Free sample of the first 3 chapters</h2>
+    <h2>Free PDF of the first 3 chapters</h2>
     <p>
     👇&nbsp;Click the image to start reading immediately&nbsp;📑
     </p>
     <div class='row covers3d'>
     {% capture _ %}{% increment colvar %}{% endcapture %}
     <a class='cover3d col{{ colvar | modulo: 5 }}' href='/files/The-Mom-Test-SAMPLE-Chapters-1-2-3-robfitz.pdf' style="background-image:url('/img/the-mom-test-sample.png')">
+    </a>
+    {% capture _ %}{% increment colvar %}{% endcapture %}
+    <a class='cover3d col{{ colvar | modulo: 5 }}' href='\files\WORKSHEETS-The-Mom-Test-robfitz.pdf' style="background-image:url('/img/the-mom-test-worksheets.png')">
     </a>
     </div>
     <p>🥰Loved it? Buy the <a href='https://geni.us/momtestv'>full paperback/kindle/audiobook</a>.</p>
